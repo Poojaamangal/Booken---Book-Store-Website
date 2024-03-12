@@ -1,19 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/booken)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/booken?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/booken?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/iHsVNWmcBAs?style=social)](https://youtu.be/iHsVNWmcBAs)
-
-  <br />
-  <br />
+  
 
   <h2 align="center">Booken - Book Store Website</h2>
 
   Booken is a fully responsive book store website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/booken/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
